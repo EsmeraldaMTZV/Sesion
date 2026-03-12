@@ -31,7 +31,7 @@ def main(page: ft.Page):
                 ft.Button(
                     content="Iniciar sesion",
                     width=280,
-                    bgcolor="#FFC0CB",
+                    bgcolor="pink200",
                     
                 ),
             ]
